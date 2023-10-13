@@ -21,4 +21,3 @@ Esse desafio foi feito durantes aulas da Dio no Bootcamp do Santander.
 
 ## 🔖 Layout 
 
-![layout Power BI 1](https://github.com/johnnywashington/Desafio-Dio/assets/106283348/fc79980f-7046-4bf4-a86b-7749c912cbf7)
